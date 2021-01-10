@@ -8,7 +8,7 @@ git checkout stg
 git merge dev
 git push
 
-git checkout ttprod
+git checkout tprod
 git merge stg
 git push
 
