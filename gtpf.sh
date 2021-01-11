@@ -1,7 +1,7 @@
 #!/bin/bash
 git checkout dev
 git add -A
-git commit -m "tsk"
+git commit -m "tssk"
 git push
 
 git checkout stg
